@@ -6,3 +6,4 @@ Objetivos:
  - Crear un laberinto por medio de una matriz [x][y]
  - Diseñar un algoritmo de programación dinámica que encuentre un camino desde la entrada hasta la salida
  - Diseñar una interfaz gráfica para visualizar mejor el laberinto y el camino hacia la salida
+ - Implementar reglas especiales para que sea más desafiante
